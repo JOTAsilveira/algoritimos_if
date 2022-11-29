@@ -1,0 +1,7 @@
+nome1 = input ( "entre com um nome: ")
+nome2 = input ( "entre com uma nome: ")
+
+if nome1 < nome2:
+    print (nome1, "vem primeiro que", nome2)
+else:
+    print (nome2, "vem primeiro que", nome1)
